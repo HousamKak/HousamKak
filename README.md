@@ -1,5 +1,5 @@
  
-[![MasterHead](https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2020/05/02124829/Software-Engineer-1024x512.png)
+![MasterHead](https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2020/05/02124829/Software-Engineer-1024x512.png)
 <h1 align="center">Hello there folks 👋, I’m HousamKak</h1>
 <h3 align="center">An Engineer, Mathematician, and Developer that will change the world.</h3>
 I’m interested in Robotics and Control, CFD, and whatever makes the life of a Mechanical engineering and Mathematics enthusiast exciting.
