@@ -2,7 +2,7 @@
 ![MasterHead](https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2020/05/02124829/Software-Engineer-1024x512.png)
 <h1 align="center">Hello there folks 👋, I’m HousamKak</h1>
 <h3 align="center">An Engineer, Mathematician, and Developer that will change the world.</h3>
-I’m interested in Robotics and Control, CFD, and whatever makes the life of a Mechanical engineering and Mathematics enthusiast exciting.
+I’m interested in Robotics and Control, building websites and apps, and whatever makes the life of an engineering and Mathematics enthusiast exciting.
 My recent plans are delving into the realm of machine learning and AI.
 Looking forward to what my life journey will bring me, I just can't contain my excitment to create and contribute!
 <img align="right" alt="wrench" width=400" src="https://c.tenor.com/LGnb0S2v_KUAAAAC/engineering-wrench.gif">
