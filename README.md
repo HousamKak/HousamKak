@@ -3,12 +3,12 @@
 <h1 align="center">Hello there folks 👋, I’m HousamKak</h1>
 <h3 align="center">An Engineer, Mathematician, and Developer that will change the world.</h3>
 I’m interested in Robotics and Control, CFD, and whatever makes the life of a Mechanical engineering and Mathematics enthusiast exciting.
-My recent plans are full stack web development in addition to machine learning and AI.
+My recent plans are delving into the realm of machine learning and AI.
 Looking forward to what my life journey will bring me, I just can't contain my excitment to create and contribute!
 <img align="right" alt="wrench" width=400" src="https://c.tenor.com/LGnb0S2v_KUAAAAC/engineering-wrench.gif">
-- 🌱 I’m currently learning **HTML,CSS**
+- 🌱 I’m currently learning **machine learning, geometric algebra**
 
-- 💬 Ask me about **MATLAB,python**
+- 💬 Ask me about **python, nodejs, javascript**
 
 - 📫 How to reach me **housam.kak20@gmail.com**
 
