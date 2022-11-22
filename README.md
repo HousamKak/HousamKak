@@ -23,5 +23,5 @@ Looking forward to what my life journey will bring me, I just can't contain my e
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=housamkak&show_icons=true&locale=en&layout=compact" alt="housamkak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=housamkak&show_icons=true&locale=en" alt="housamkak" /></p>
+
 
