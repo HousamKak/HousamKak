@@ -19,7 +19,7 @@ Looking forward to what my life journey will bring me, I just can't contain my e
 
 <h3>----------------------------------------------------------------------------------------------------------------------------</h3>
 
-<h3 align="left"> I would love to chat about tech and I would love to have a deep talk about mathematics and poetry so... Connect with me:</h3>
+<h4 align="left"> I would love to chat about tech to have a deep talk about mathematics and poetry so... CONNECT WITH ME:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/housamkak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="housam kak" height="30" width="40" /></a>
 <a href="https://www.facebook.com/housamkak3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="housam kak" height="30" width="40" /></a>
