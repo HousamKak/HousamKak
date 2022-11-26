@@ -5,7 +5,11 @@
 I’m interested in Robotics and Control, building websites and apps, and whatever makes the life of an engineering and Mathematics enthusiast exciting.
 My recent plans are delving into the realm of machine learning and AI.
 Looking forward to what my life journey will bring me, I just can't contain my excitement to create and contribute!
-<img align="center" alt="wrench" width=400" src="https://c.tenor.com/LGnb0S2v_KUAAAAC/engineering-wrench.gif">
+<h3> -----------------------------------------------------------------------------------------------</h3>
+
+<img align="center" alt="wrench" src="https://c.tenor.com/LGnb0S2v_KUAAAAC/engineering-wrench.gif">
+<h3> -----------------------------------------------------------------------------------------------</h3>
+
                                                                                                             
 - 🌱 I’m currently learning **machine learning, geometric algebra**
 
@@ -13,8 +17,10 @@ Looking forward to what my life journey will bring me, I just can't contain my e
 
 - 📫 How to reach me **housam.kak20@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3> -----------------------------------------------------------------------------------------------</h3>
+
+<h3 align="left"> I would love to chat about tech and I would love to have a deep talk about mathematics and poetry so... Connect with me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/housamkak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="housam kak" height="30" width="40" /></a>
 <a href="https://www.facebook.com/housamkak3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="housam kak" height="30" width="40" /></a>
 </p>
