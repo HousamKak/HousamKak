@@ -6,6 +6,7 @@ I’m interested in Robotics and Control, building websites and apps, and whatev
 My recent plans are delving into the realm of machine learning and AI.
 Looking forward to what my life journey will bring me, I just can't contain my excitement to create and contribute!
 <img align="right" alt="wrench" width=400" src="https://c.tenor.com/LGnb0S2v_KUAAAAC/engineering-wrench.gif">
+                                                                                                            
 - 🌱 I’m currently learning **machine learning, geometric algebra**
 
 - 💬 Ask me about **python, nodejs, javascript**
