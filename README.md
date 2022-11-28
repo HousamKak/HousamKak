@@ -11,7 +11,7 @@ Looking forward to what my life journey will bring me, I just can't contain my e
 <h3>------------------------------------------------------------------------------------------------------------------------</h3>
 
                                                                                                             
-- 🌱 I’m currently learning **machine learning, geometric algebra**
+- 🌱 I’m currently working on [Trace](https://github.com/HousamKak/trace)
 
 - 💬 Ask me about **python, nodejs, javascript**
 
