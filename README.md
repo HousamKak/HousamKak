@@ -1,6 +1,6 @@
  
 ![MasterHead](https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2020/05/02124829/Software-Engineer-1024x512.png)
-<h1 align="center">Greetings, Digital Travelers! 🌐 I’m HousamKak,</h1>
+<h1 align="center">Greetings, Digital Travelers! 🌐 I’m HousamKak</h1>
 <h3 align="center">An Engineer, Mathematician, and Developer that will change the world.</h3>
 
 At the intersection of engineering and mathematics, I stand poised to make a transformative impact on the world. As a passionate engineer, keen mathematician, and innovative developer, my pursuits span the vast landscapes of Robotics and Control. I thrive on crafting dynamic websites and applications, and every endeavor that stirs the heart of a true engineering and mathematics aficionado.
