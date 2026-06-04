@@ -1,36 +1,81 @@
- 
-![MasterHead](https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2020/05/02124829/Software-Engineer-1024x512.png)
-<h1 align="center">Greetings, Digital Travelers! 🌐 I’m HousamKak</h1>
-<h3 align="center">An Engineer, Mathematician, and Developer that will change the world.</h3>
+<div align="center">
 
-At the intersection of engineering and mathematics, I stand poised to make a transformative impact on the world. As a passionate engineer, keen mathematician, and innovative developer, my pursuits span the vast landscapes of Robotics and Control. I thrive on crafting dynamic websites and applications, and every endeavor that stirs the heart of a true engineering and mathematics aficionado.
+# Greetings, Digital Travelers! 🌐 I'm **Housam Kak**
 
-Recently, I've been immersing myself in the captivating world of machine learning and AI, ready to embrace the challenges and breakthroughs it offers. Each day brings a new chapter in this exhilarating journey of creation and contribution. Join me in this adventure, as we reshape the digital frontier! 🚀
-<h3>------------------------------------------------------------------------------------------------------------------------</h3>
+### Engineer · Mathematician · Builder of AI-native things
 
-<img align="center" alt="wrench" src="https://c.tenor.com/LGnb0S2v_KUAAAAC/engineering-wrench.gif">
-<h3>------------------------------------------------------------------------------------------------------------------------</h3>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&center=true&vCenter=true&width=600&lines=From+robotics+%26+control...;...to+AI-native+products.;OS+as+an+infinite+canvas.;Graphs%2C+agents%2C+and+too+many+repos." alt="Typing SVG" />
+</a>
 
-                                                                                                            
-- 🌱 I’m currently working on [Trace](https://github.com/HousamKak/trace)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/housamkak/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/housamkak3/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:housam.kak20@gmail.com)
 
-- 💬 Ask me about **python, nodejs, javascript**
+</div>
 
-- 📫 How to reach me **housam.kak20@gmail.com**
+---
 
-<h3>------------------------------------------------------------------------------------------------------------------------</h3>
+I started at the intersection of **engineering and mathematics** — and these days I live in the part of it that builds **AI-native products and developer tools**. I think in graphs, ship full-stack, and keep an unreasonable number of projects alive at once.
 
-<h4 align="left"> I would love to chat about tech to have a deep talk about mathematics and poetry so... CONNECT WITH ME:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/housamkak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="housam kak" height="30" width="40" /></a>
-<a href="https://www.facebook.com/housamkak3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="housam kak" height="30" width="40" /></a>
-</p>
-<h3>------------------------------------------------------------------------------------------------------------------------</h3>
+- 🔭 **Currently building:** [**heliOS**](https://github.com/HousamKak/helios) — an AI-native Linux distribution where the OS is one infinite-zoom canvas and Claude Code *is* the shell.
+- 🧬 **Ventures:** **Atlagene** (consumer + lab genomics platform) and **Houya** (creative & vectorization tooling).
+- 🧠 **Obsessed with:** code intelligence, knowledge graphs, agent orchestration, and 3D visualization.
+- 💬 **Ask me about:** TypeScript, Python, Rust, Next.js, graph databases, and where mathematics meets engineering (and the occasional poem).
+- 📫 **Reach me:** housam.kak20@gmail.com
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<h3>------------------------------------------------------------------------------------------------------------------------</h3>
+## 🚀 Flagship Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=housamkak&show_icons=true&locale=en" alt="housamkak" /></p>
+| Project | What it is | Stack |
+|---|---|---|
+| [**heliOS**](https://github.com/HousamKak/helios) | AI-native Linux distro — the OS as one infinite-zoom canvas; Claude Code as the shell, WASM applets generated on demand. | `Rust` · `Wasmtime` · `Wayland` · `MCP` |
+| [**codegraph**](https://github.com/HousamKak/codegraph) | Gives LLMs *eyes* — a Neo4j-backed code graph that validates changes against the codebase's relationships. | `Python` · `FastAPI` · `Neo4j` |
+| [**DepeNsee**](https://github.com/HousamKak/DepeNsee) | Interactive 3D/2D dependency visualizer for JS/TS projects, down to file and method-call graphs. | `Node.js` · `Three.js` · `Babel` |
+| [**WTG — Where in the Graph**](https://github.com/HousamKak/wtg-project-v2) | Mathematical knowledge graph — theorem dependencies as interactive 3D nodes, with LaTeX rendering. | `React` · `Three.js` · `KaTeX` |
+| [**wheretime**](https://github.com/HousamKak/wheretime) | Time tracking with hierarchical categories, interactive charts, and custom date filters. | `React 19` · `Express` · `SQLite` |
+| [**blog**](https://github.com/HousamKak/blog) | Personal engineering blog with MDX, 3D React-Three-Fiber visuals, and KaTeX math. | `Astro` · `R3F` · `Tailwind` |
+| [**wara2**](https://github.com/HousamKak/wara2) | Telegram bot for the *Li5a* card game — 4-player trick-taking with AI opponents and scoring. | `Python` · `python-telegram-bot` |
+| [**plan-one-day**](https://github.com/HousamKak/plan-one-day) | A 24-hour visual day planner with draggable timeline blocks and conflict detection. | `HTML` · `CSS` · `JavaScript` |
+| [**Classitin**](https://github.com/HousamKak/Classitin) | Full-stack learning platform built as a typed monorepo. | `TypeScript` · `Turbo` · `Prisma` |
 
+> ...and a long tail of experiments: voxel terrain from the Collatz conjecture, a meromorphic-function explorer in C++, visual programming tools, RAG over OneNote, and more on the [repositories tab](https://github.com/HousamKak?tab=repositories).
+
+---
+
+## 🛠️ Languages & Tools
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HousamKak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HousamKak&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
+
+</div>
