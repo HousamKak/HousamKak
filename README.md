@@ -1,81 +1,161 @@
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       HOUSAM KAK · PROFILE                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<a href="https://github.com/HousamKak">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Housam%20Kak&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Engineer%20%C2%B7%20Mathematician%20%C2%B7%20Builder%20of%20AI-native%20things&descAlignY=58&descSize=18" alt="Housam Kak" />
+</a>
+
 <div align="center">
 
-# Greetings, Digital Travelers! 🌐 I'm **Housam Kak**
-
-### Engineer · Mathematician · Builder of AI-native things
-
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&center=true&vCenter=true&width=600&lines=From+robotics+%26+control...;...to+AI-native+products.;OS+as+an+infinite+canvas.;Graphs%2C+agents%2C+and+too+many+repos." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=64FFDA&center=true&vCenter=true&width=640&lines=From+robotics+%26+control...;...to+AI-native+products.;An+OS+as+one+infinite+canvas.;Graphs%2C+agents%2C+and+too+many+repos." alt="Typing SVG" />
 </a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/housamkak/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/housamkak3/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:housam.kak20@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=HousamKak&style=for-the-badge&color=64ffda&label=VISITORS)](https://github.com/HousamKak)
 
 </div>
 
 ---
 
-I started at the intersection of **engineering and mathematics** — and these days I live in the part of it that builds **AI-native products and developer tools**. I think in graphs, ship full-stack, and keep an unreasonable number of projects alive at once.
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> `whoami`
 
-- 🔭 **Currently building:** [**heliOS**](https://github.com/HousamKak/helios) — an AI-native Linux distribution where the OS is one infinite-zoom canvas and Claude Code *is* the shell.
+```ts
+const housam = {
+  origin:      ["engineering", "mathematics"],
+  nowBuilding: "AI-native products & developer tools",
+  thinksIn:    ["graphs", "agents", "3D space"],
+  ventures:    ["Atlagene (genomics)", "Houya (creative tooling)"],
+  flagship:    "heliOS — an AI-native Linux distribution",
+  motto:       "ship full-stack, keep too many projects alive at once",
+};
+```
+
+- 🔭 **Currently building** [**heliOS**](https://github.com/HousamKak/helios) — the OS as one infinite-zoom canvas, where Claude Code *is* the shell and apps are WASM applets generated on demand.
 - 🧬 **Ventures:** **Atlagene** (consumer + lab genomics platform) and **Houya** (creative & vectorization tooling).
-- 🧠 **Obsessed with:** code intelligence, knowledge graphs, agent orchestration, and 3D visualization.
-- 💬 **Ask me about:** TypeScript, Python, Rust, Next.js, graph databases, and where mathematics meets engineering (and the occasional poem).
-- 📫 **Reach me:** housam.kak20@gmail.com
+- 🧠 **Obsessed with:** code intelligence, knowledge graphs, agent orchestration, and turning abstract structure into something you can *see*.
+- 💬 **Talk to me about:** TypeScript, Python, Rust, Next.js, graph databases — and where mathematics quietly meets engineering (and the occasional poem).
 
 ---
 
-## 🚀 Flagship Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Flagship Builds
+
+<div align="center">
+
+<a href="https://github.com/HousamKak/helios">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HousamKak&repo=helios&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
+</a>
+<a href="https://github.com/HousamKak/codegraph">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HousamKak&repo=codegraph&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
+</a>
+
+<a href="https://github.com/HousamKak/DepeNsee">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HousamKak&repo=DepeNsee&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
+</a>
+<a href="https://github.com/HousamKak/wtg-project-v2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HousamKak&repo=wtg-project-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
+</a>
+
+<a href="https://github.com/HousamKak/blog">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HousamKak&repo=blog&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
+</a>
+<a href="https://github.com/HousamKak/wheretime">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HousamKak&repo=wheretime&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
+</a>
+
+</div>
+
+<details>
+<summary><b>🗂️ &nbsp;More from the lab — click to expand</b></summary>
+
+<br/>
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**heliOS**](https://github.com/HousamKak/helios) | AI-native Linux distro — the OS as one infinite-zoom canvas; Claude Code as the shell, WASM applets generated on demand. | `Rust` · `Wasmtime` · `Wayland` · `MCP` |
-| [**codegraph**](https://github.com/HousamKak/codegraph) | Gives LLMs *eyes* — a Neo4j-backed code graph that validates changes against the codebase's relationships. | `Python` · `FastAPI` · `Neo4j` |
-| [**DepeNsee**](https://github.com/HousamKak/DepeNsee) | Interactive 3D/2D dependency visualizer for JS/TS projects, down to file and method-call graphs. | `Node.js` · `Three.js` · `Babel` |
-| [**WTG — Where in the Graph**](https://github.com/HousamKak/wtg-project-v2) | Mathematical knowledge graph — theorem dependencies as interactive 3D nodes, with LaTeX rendering. | `React` · `Three.js` · `KaTeX` |
-| [**wheretime**](https://github.com/HousamKak/wheretime) | Time tracking with hierarchical categories, interactive charts, and custom date filters. | `React 19` · `Express` · `SQLite` |
-| [**blog**](https://github.com/HousamKak/blog) | Personal engineering blog with MDX, 3D React-Three-Fiber visuals, and KaTeX math. | `Astro` · `R3F` · `Tailwind` |
-| [**wara2**](https://github.com/HousamKak/wara2) | Telegram bot for the *Li5a* card game — 4-player trick-taking with AI opponents and scoring. | `Python` · `python-telegram-bot` |
-| [**plan-one-day**](https://github.com/HousamKak/plan-one-day) | A 24-hour visual day planner with draggable timeline blocks and conflict detection. | `HTML` · `CSS` · `JavaScript` |
+| [**WTG — Where in the Graph**](https://github.com/HousamKak/wtg-project-v2) | Mathematical knowledge graph — theorem dependencies as interactive 3D nodes, with LaTeX. | `React` · `Three.js` · `KaTeX` |
+| [**wara2**](https://github.com/HousamKak/wara2) | Telegram bot for the *Li5a* card game — 4-player trick-taking with AI opponents. | `Python` · `python-telegram-bot` |
 | [**Classitin**](https://github.com/HousamKak/Classitin) | Full-stack learning platform built as a typed monorepo. | `TypeScript` · `Turbo` · `Prisma` |
+| [**plan-one-day**](https://github.com/HousamKak/plan-one-day) | A 24-hour visual day planner with draggable timeline blocks and conflict detection. | `HTML` · `CSS` · `JS` |
+| [**emlbanet**](https://github.com/HousamKak/emlbanet) | Multi-app web workspace (homemade-food, cheesecake, landing). | `TypeScript` · workspaces |
 
-> ...and a long tail of experiments: voxel terrain from the Collatz conjecture, a meromorphic-function explorer in C++, visual programming tools, RAG over OneNote, and more on the [repositories tab](https://github.com/HousamKak?tab=repositories).
+> ...plus a long tail of experiments — voxel terrain from the Collatz conjecture, a meromorphic-function explorer in C++, visual-programming tools, RAG over OneNote, and [more →](https://github.com/HousamKak?tab=repositories)
+
+</details>
 
 ---
 
-## 🛠️ Languages & Tools
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Arsenal
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+<div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+**Languages**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,cpp,cs,go" />
+
+**Frameworks & Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,astro,nodejs,bun,tailwind,threejs" />
+
+**Backend, Data & Infra**
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,prisma,redis,docker,aws" />
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode,vite,matlab" />
+
+</div>
+
+---
+
+## 📊 By the Numbers
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HousamKak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HousamKak&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HousamKak&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=64ffda&langs_count=10" />
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HousamKak&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HousamKak&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HousamKak/HousamKak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HousamKak/HousamKak/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HousamKak/HousamKak/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HousamKak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HousamKak&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
+> *"At the intersection of engineering and mathematics — poised to make a transformative impact."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
