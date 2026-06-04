@@ -89,6 +89,24 @@ const housam = {
 
 ---
 
+## 🧭 The Journey
+
+<div align="center">
+
+| Year | Era | What it was about |
+|:---:|:---|:---|
+| **2022** | 📚 &nbsp;The Apprenticeship | Fundamentals — HTML/CSS, PHP/Laravel, SQL, and a wall of cloning exercises. *Learning the craft.* |
+| **2023** | 🔧 &nbsp;The Quiet Tinkerer | A gap year of small Python utilities and personal scripts. *Scratching my own itches.* |
+| **2024** | 🏗️ &nbsp;First Real Builds | First true client/server apps and a multi-repo product. *Scripts → applications.* |
+| **2025** | 💥 &nbsp;The Explosion | **46 repos.** Prolific full-stack — and the dev-tools & code-intelligence obsession is born. |
+| **2026** | 🤖 &nbsp;The AI-Native Era | Agents, an AI-native OS, Claude-Code tooling, and ventures (Atlagene, Houya). |
+
+</div>
+
+> **TL;DR** — *clone tutorials → tinker with scripts → ship real apps → go prolific full-stack → build AI-native systems.*
+
+---
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Arsenal
 
 <div align="center">
