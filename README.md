@@ -130,12 +130,6 @@ const housam = {
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HousamKak&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
