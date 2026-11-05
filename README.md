@@ -1,6 +1,4 @@
-<a href="https://www.housamkak.com">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Housam%20Kak&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front%20office%20investment%20technology%20%C2%B7%20Senior%20AI%20%26%20software%20engineer%20%C2%B7%20Mathematician&descAlignY=60&descSize=17" alt="Housam Kak: front office investment technology, senior AI and software engineer, mathematician." />
-</a>
+<a href="https://www.housamkak.com"><img width="100%" src="assets/header.png" alt="Housam Kak: front office investment technology, senior AI and software engineer, systems and processes architect, mathematician." /></a>
 
 <div align="center">
 
@@ -24,6 +22,11 @@ I am a senior AI and software engineer in front office investment technology at 
 
 ### Flagship systems
 
+<table><tr>
+<td width="50%"><a href="https://www.housamkak.com/work/blockforge"><img src="assets/blockforge.jpg" alt="A BlockForge world rendered by the engine" /></a><br/><sub><b>BlockForge</b>: a world rendered by the engine</sub></td>
+<td width="50%"><a href="https://www.housamkak.com/work/h-system"><img src="assets/h.jpg" alt="The H canvas with agents, terminals and applets wired together" /></a><br/><sub><b>H</b>: agents, terminals and applets wired on one canvas</sub></td>
+</tr></table>
+
 | Project | What it is | Links |
 | --- | --- | --- |
 | **H** | A canvas operating environment where AI agents, terminals and live applets are wired together like a circuit. Event-sourced orchestration core, typed wires between applets, a turn tracker that knows when an agent is done or stuck. *Private repository.* | [Case study](https://www.housamkak.com/work/h-system) · [Woodr docs](https://github.com/HousamKak/woodr-docs) |
@@ -31,6 +34,11 @@ I am a senior AI and software engineer in front office investment technology at 
 | **[heliOS](https://github.com/HousamKak/helios)** | An AI-native Linux distribution. The OS is one infinite-zoom canvas where every process, file, agent and applet is visible, and Claude Code is the system shell. Early scaffolding in Rust. | [Repo](https://github.com/HousamKak/helios) |
 
 ### Open source
+
+<table><tr>
+<td width="50%"><a href="https://github.com/HousamKak/flying-screen"><img src="assets/flying-screen.jpg" alt="Flying Screen flight simulation view" /></a><br/><sub><b>flying-screen</b>: the co-design engine simulating a flight</sub></td>
+<td width="50%"><a href="https://github.com/HousamKak/math-is-war"><img src="assets/math-is-war.jpg" alt="Math is War: aiming a shot with a function" /></a><br/><sub><b>math-is-war</b>: aiming a shot with a function</sub></td>
+</tr></table>
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -75,7 +83,6 @@ I am a senior AI and software engineer in front office investment technology at 
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HousamKak&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=64ffda&langs_count=8" alt="Top languages" />
 
 <sub>[housamkak.com](https://www.housamkak.com) · [blog.housamkak.com](https://blog.housamkak.com) · [blockforge.housamkak.com](https://blockforge.housamkak.com)</sub>
 
