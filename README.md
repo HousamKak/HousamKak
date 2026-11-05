@@ -1,173 +1,82 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       HOUSAM KAK · PROFILE                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<a href="https://github.com/HousamKak">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Housam%20Kak&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Engineer%20%C2%B7%20Mathematician%20%C2%B7%20Builder%20of%20AI-native%20things&descAlignY=58&descSize=18" alt="Housam Kak" />
+<a href="https://www.housamkak.com">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Housam%20Kak&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front%20office%20investment%20technology%20%C2%B7%20Senior%20AI%20%26%20software%20engineer%20%C2%B7%20Mathematician&descAlignY=60&descSize=17" alt="Housam Kak: front office investment technology, senior AI and software engineer, mathematician." />
 </a>
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=64FFDA&center=true&vCenter=true&width=640&lines=From+robotics+%26+control...;...to+AI-native+products.;An+OS+as+one+infinite+canvas.;Graphs%2C+agents%2C+and+too+many+repos." alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/housamkak/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/housamkak3/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:housam.kak20@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=HousamKak&style=for-the-badge&color=64ffda&label=VISITORS)](https://github.com/HousamKak)
+**[Website](https://www.housamkak.com)** · **[Blog](https://blog.housamkak.com)** · **[BlockForge](https://blockforge.housamkak.com)** · **[LinkedIn](https://www.linkedin.com/in/housamkak/)** · **[CV](https://www.housamkak.com/cv)** · **[Email](mailto:housam.kak20@gmail.com)**
 
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> `whoami`
+### About
 
-```ts
-const housam = {
-  origin:      ["engineering", "mathematics"],
-  nowBuilding: "AI-native products & developer tools",
-  thinksIn:    ["graphs", "agents", "3D space"],
-  ventures:    ["Atlagene (genomics)", "Houya (creative tooling)"],
-  flagship:    "heliOS — an AI-native Linux distribution",
-  motto:       "ship full-stack, keep too many projects alive at once",
-};
-```
+**Front Office Investment Technology · Senior AI & Software Engineer · Systems and Processes Architect · Mathematician**
 
-- 🔭 **Currently building** [**heliOS**](https://github.com/HousamKak/helios) — the OS as one infinite-zoom canvas, where Claude Code *is* the shell and apps are WASM applets generated on demand.
-- 🧬 **Ventures:** **Atlagene** (consumer + lab genomics platform) and **Houya** (creative & vectorization tooling).
-- 🧠 **Obsessed with:** code intelligence, knowledge graphs, agent orchestration, and turning abstract structure into something you can *see*.
-- 💬 **Talk to me about:** TypeScript, Python, Rust, Next.js, graph databases — and where mathematics quietly meets engineering (and the occasional poem).
+I am a senior AI and software engineer in front office investment technology at Davidson Kempner Capital Management, where I lead an enterprise conversational AI pilot, and I build my own systems on the side: an agent workspace (H), a programmable 3D world engine (BlockForge) and developer tools that make code structure visible. B.E. Mechanical Engineering, major in Mathematics (AUB). Based in Dubai.
+
+- **Ventures:** **Atlagene** (genomics platform, co-founder and CTO) and **[Houya](https://houya.co)** (custom software, AI agents and automation by senior engineers; co-founder and tech lead).
+- **Thinks in:** graphs, agents, 3D space, and the place where mathematics meets engineering.
+- **Works in:** TypeScript, Python, Rust, C++, three.js and WebGPU, Next.js and Astro, SQLite and Postgres, MCP.
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Flagship Builds
+### Flagship systems
 
-<div align="center">
+| Project | What it is | Links |
+| --- | --- | --- |
+| **H** | A canvas operating environment where AI agents, terminals and live applets are wired together like a circuit. Event-sourced orchestration core, typed wires between applets, a turn tracker that knows when an agent is done or stuck. *Private repository.* | [Case study](https://www.housamkak.com/work/h-system) · [Woodr docs](https://github.com/HousamKak/woodr-docs) |
+| **BlockForge** | A programmable voxel world engine: a script becomes a world, and a world becomes a film. Web and native C++ clients on one data format, driven by agents through a CLI and MCP, exporting films, walkable worlds and game-ready GLB. *Private repository.* | [Case study](https://www.housamkak.com/work/blockforge) · [Live site](https://blockforge.housamkak.com) |
+| **[heliOS](https://github.com/HousamKak/helios)** | An AI-native Linux distribution. The OS is one infinite-zoom canvas where every process, file, agent and applet is visible, and Claude Code is the system shell. Early scaffolding in Rust. | [Repo](https://github.com/HousamKak/helios) |
 
-<a href="https://github.com/HousamKak/helios">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HousamKak&repo=helios&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
-</a>
-<a href="https://github.com/HousamKak/codegraph">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HousamKak&repo=codegraph&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
-</a>
-
-<a href="https://github.com/HousamKak/DepeNsee">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HousamKak&repo=DepeNsee&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
-</a>
-<a href="https://github.com/HousamKak/wtg-project-v2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HousamKak&repo=wtg-project-v2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
-</a>
-
-<a href="https://github.com/HousamKak/blog">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HousamKak&repo=blog&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
-</a>
-<a href="https://github.com/HousamKak/wheretime">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HousamKak&repo=wheretime&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
-</a>
-
-</div>
-
-<details>
-<summary><b>🗂️ &nbsp;More from the lab — click to expand</b></summary>
-
-<br/>
+### Open source
 
 | Project | What it is | Stack |
-|---|---|---|
-| [**WTG — Where in the Graph**](https://github.com/HousamKak/wtg-project-v2) | Mathematical knowledge graph — theorem dependencies as interactive 3D nodes, with LaTeX. | `React` · `Three.js` · `KaTeX` |
-| [**wara2**](https://github.com/HousamKak/wara2) | Telegram bot for the *Li5a* card game — 4-player trick-taking with AI opponents. | `Python` · `python-telegram-bot` |
-| [**Classitin**](https://github.com/HousamKak/Classitin) | Full-stack learning platform built as a typed monorepo. | `TypeScript` · `Turbo` · `Prisma` |
-| [**plan-one-day**](https://github.com/HousamKak/plan-one-day) | A 24-hour visual day planner with draggable timeline blocks and conflict detection. | `HTML` · `CSS` · `JS` |
-| [**emlbanet**](https://github.com/HousamKak/emlbanet) | Multi-app web workspace (homemade-food, cheesecake, landing). | `TypeScript` · workspaces |
+| --- | --- | --- |
+| [**codegraph**](https://github.com/HousamKak/codegraph) | Indexes Python code into a Neo4j graph so an LLM can see code relationships, and checks every change against conservation laws (signatures, references, data flow, structure). | `Python` · `Neo4j` |
+| [**flying-screen**](https://github.com/HousamKak/flying-screen) | Co-design engine and paper for a display that hovers beside you: sizing, flight dynamics and control, every number traced to an equation. | `Python` · `TeX` |
+| [**book.js**](https://github.com/HousamKak/book.js) | Realistic 3D page flip for the web with a custom shader, a vanilla core and React, Vue, Svelte and Astro adapters. | `TypeScript` · `three.js` |
+| [**math-is-war**](https://github.com/HousamKak/math-is-war) | An artillery game where your shot is a math function: a Pratt-parsed expression engine, RK4 trajectories, terrain. | `TypeScript` · `Canvas` |
+| [**blog**](https://github.com/HousamKak/blog) | Source of [blog.housamkak.com](https://blog.housamkak.com), a broadsheet-style blog of posts, papers and renders. | `Astro` |
+| [**highlightability**](https://github.com/HousamKak/highlightability) | VS Code extension for code highlights with comments, team sharing and persistence. | `TypeScript` · `VS Code API` |
 
-> ...plus a long tail of experiments — voxel terrain from the Collatz conjecture, a meromorphic-function explorer in C++, visual-programming tools, RAG over OneNote, and [more →](https://github.com/HousamKak?tab=repositories)
+<details>
+<summary><b>More from the lab</b></summary>
+
+<br/>
+
+| Project | What it is |
+| --- | --- |
+| [**DepeNsee**](https://github.com/HousamKak/DepeNsee) | Dependency graphs for JavaScript and TypeScript projects, down to method level. |
+| [**wtg-project-v2**](https://github.com/HousamKak/wtg-project-v2) | Where in the Graph: theorem dependencies as an interactive 3D knowledge graph. |
+| [**onenote-rag**](https://github.com/HousamKak/onenote-rag) | Retrieval-augmented question answering over OneNote, with toggleable RAG techniques. |
+| [**cpp-meromorphic**](https://github.com/HousamKak/cpp-meromorphic) | High-precision fractal explorer for a meromorphic extension of the Collatz map. |
+| [**Collatz-Voxel-Terrain**](https://github.com/HousamKak/Collatz-Voxel-Terrain) | A 3D voxel world generated from the Collatz sequence. |
+| [**maraqi-alnuha**](https://github.com/HousamKak/maraqi-alnuha) | Arabic-first site for a programme of proof-based learning, from mathematics to engineering. |
+
+[All repositories](https://github.com/HousamKak?tab=repositories)
 
 </details>
 
 ---
 
-## 🧭 The Journey
+### The path
 
-<div align="center">
-
-| Year | Era | What it was about |
-|:---:|:---|:---|
-| **2022** | 📚 &nbsp;The Apprenticeship | Fundamentals — HTML/CSS, PHP/Laravel, SQL, and a wall of cloning exercises. *Learning the craft.* |
-| **2023** | 🔧 &nbsp;The Quiet Tinkerer | A gap year of small Python utilities and personal scripts. *Scratching my own itches.* |
-| **2024** | 🏗️ &nbsp;First Real Builds | First true client/server apps and a multi-repo product. *Scripts → applications.* |
-| **2025** | 💥 &nbsp;The Explosion | **46 repos.** Prolific full-stack — and the dev-tools & code-intelligence obsession is born. |
-| **2026** | 🤖 &nbsp;The AI-Native Era | Agents, an AI-native OS, Claude-Code tooling, and ventures (Atlagene, Houya). |
-
-</div>
-
-> **TL;DR** — *clone tutorials → tinker with scripts → ship real apps → go prolific full-stack → build AI-native systems.*
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Arsenal
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,rust,cpp,cs,go" />
-
-**Frameworks & Frontend**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,astro,nodejs,bun,tailwind,threejs" />
-
-**Backend, Data & Infra**
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,prisma,redis,docker,aws" />
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode,vite,matlab" />
-
-</div>
-
----
-
-## 📊 By the Numbers
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HousamKak&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=64ffda&icon_color=64ffda" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HousamKak&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HousamKak&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=64ffda&langs_count=10" />
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HousamKak&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HousamKak/HousamKak/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HousamKak/HousamKak/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HousamKak/HousamKak/output/github-snake.svg" />
-</picture>
-
-</div>
+| Year | What it was about |
+| :---: | :--- |
+| **2022** | Fundamentals: HTML and CSS, PHP and Laravel, SQL, many cloning exercises. |
+| **2023** | Small Python utilities and personal scripts. |
+| **2024** | First real client and server apps, and a multi-repo product. |
+| **2025** | Full-stack at volume, and the start of the dev-tools and code-intelligence work. |
+| **2026** | Enterprise AI delivery, agent orchestration (H), a 3D world engine (BlockForge), ventures. |
 
 ---
 
 <div align="center">
 
-> *"At the intersection of engineering and mathematics — poised to make a transformative impact."*
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HousamKak&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=64ffda&langs_count=8" alt="Top languages" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<sub>[housamkak.com](https://www.housamkak.com) · [blog.housamkak.com](https://blog.housamkak.com) · [blockforge.housamkak.com](https://blockforge.housamkak.com)</sub>
 
 </div>
